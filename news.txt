@@ -1,0 +1,18 @@
+author: null
+authors: []
+clean_url: "patch.com"
+country: "US"
+is_opinion: false
+language: "en"
+link: "https://patch.com/new-york/smithtown/nesconsets-paws-war-partnering-corporate-sponsors"
+media: "https://patch.com/img/cdn20/users/23350902/20220203/114120/styles/patch_image/public/3-pups___03112202491.jpg"
+published_date: "2022-02-03 16:41:21"
+published_date_precision: "full"
+rank: 881
+rights: "patch.com"
+summary: "Paws of War, a Nesconset-based organization, is seeking to partner with corporate sponsors to fulfill its missions. (Courtesy of Paws of War)NESCONSET, NY — Paws of War, a Nesconset-based nonprofit, is aiming to partner with corporate companies willing to sponsor it, according to a news release.Paws of War aims to help military members coming home from deployment with service pets, getting food for themselves or their pets, putting up a fence on their property, and relocating pets to the U.S. that soldiers had rescued while overseas."
+title: "Suffolk's Paws Of War Partnering With Corporate Sponsors"
+topic: "news"
+twitter_account: null
+_id: "0f4aefc4c9e4d67bb4824c9468757e0a"
+_score: 8.368051
